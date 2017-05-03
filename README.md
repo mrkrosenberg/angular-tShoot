@@ -16,8 +16,10 @@ All we need to do is print out the string `You did it!` to the HTML page.  Easie
 
 ### Project 2 (Stretch): Router
 
-The C-levels have heard great things about "Front End Routing" and "Front End Super-progressive Web Hybrid Mobile iPhone Apps".  The second one is not a thing, but Steve **tried** to research the first one, copied a bunch of code that doesn't work, and left it on the manager's desk.  See if you can get the `Home` and `About` links to work on the page, as well as a welcome text to show up on the HTML like in project 1.
+The C-levels have heard great things about "Front End Routing". Steve **tried** to research this, copied a bunch of code that doesn't work, and sent it to the manager's inbox.  See if you can get the `Home` and `About` links to work on the page, as well as a welcome text to show up on the HTML like in project 1.
 
 ### Get your Stuff Together, Steve
 
-![Put it in a backpack, so...so it's together](./inABackpack.jpg)
+![backpack](./inABackpack.jpg)
+
+*Put it in a backpack, so...so it's together*
