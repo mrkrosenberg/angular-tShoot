@@ -20,4 +20,6 @@ The C-levels have heard great things about "Front End Routing" and "Front End Su
 
 ### Get your Stuff Together, Steve
 
-![Put it in a backpack, so...so it's together](./inABackpack.jpg)
+![backpack](./inABackpack.jpg)
+
+*Put it in a backpack, so...so it's together*
