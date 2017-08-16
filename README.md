@@ -10,13 +10,13 @@ It is **highly encouraged** to use your Developer Tools' Elements and Console ta
 
 Here are the two projects Steve was supposed to accomplish:
 
-### Project 1: Hello World
+### Task 1: Hello World
 
 All we need to do is print out the string `You did it!` to the HTML page.  Easier said than done, though.  Steve left us a mess here.
 
-### Project 2 (Stretch): Router
+### Task 2: Forms
 
-The C-levels have heard great things about "Front End Routing". Steve **tried** to research this, copied a bunch of code that doesn't work, and sent it to the manager's inbox.  See if you can get the `Home` and `About` links to work on the page, as well as a welcome text to show up on the HTML like in project 1.
+The C-levels have heard great things about "Angular Forms". Steve **tried** to research this, copied a bunch of code that doesn't work, and sent it to the manager's inbox.  See if you can get the `FormComponent` to log to the Dev Tools console.
 
 ### Get your Stuff Together, Steve
 
