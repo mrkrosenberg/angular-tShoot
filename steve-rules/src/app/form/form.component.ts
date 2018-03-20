@@ -7,13 +7,16 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FormComponent implements OnInit {
 
+  name: String;
+  age: number;
+
   constructor() { }
 
   ngOnInit() {
   }
 
   logForm() {
-  	//console.log(`${this.name} is ${this.age} years old`);
+      console.log(`${this.name} is ${this.age} years old`);
   }
 
 }
